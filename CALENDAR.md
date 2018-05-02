@@ -8,7 +8,7 @@ week | Tuesdays | Thursdays | dates
 6 | " : matrices   | Multiple reg; quiz        | 
 7 | **Module 2**: series | fft decomposition   | 
 8 | " : orthogonality| Spectra plotting        | 
-9 | SPRING | BREAK | March 13-15
+9 | SPRING | BREAK | 
 10| **Module 2**: cospectra | Fluxes by scale
 11| " : wavelets   | Wavelet lab; quiz   
 12| **Module 3**: empirical modes | EOF example 
