@@ -1,9 +1,11 @@
 # Syllabus of MPO/ATM 642, spring 2020
+<<<<<<< HEAD
 Applied Data Analysis (in an oceanography/meteorology setting). https://github.com/MPO624/2020.
+=======
+Applied Data Analysis (in an oceanography/meteorology setting). https://github.com/MPO624/2018.
+>>>>>>> origin/master
 
 Instructor: Brian Mapes, mapes@miami.edu. MSC366 is my office. 
-TA: Mampi Sarkar, mampi.sarkar@rsmas.miami.edu
-
 Class meets: 10:30-11:45 Tues-Thurs, MSC 329
 Clinc / office hours: let's arrange 
 
@@ -34,7 +36,7 @@ Three credits means we have 28 75-minute classes together, plus double that much
   
   * 10% 3-4 short (5-10 minute) "scouting report" presentations through the term. Each class will begin with a scouting report (so 30 is slightly too many). These will be assigned by volunteering, so make sure you do step up and volunteer when something interests you. The task will be to explore and report about issues or software that may come up 1-2 classes before. Let's meet before you present, so we can strategize how to boil down your explorations into a very concise report. 
   
-  * 30% End-of term research project presentation (15+ minutes). These will likely take the form of a Jupyter notebook (or Matlab live script), so it also stands as a written record of the work (for your professional portfolio, and as a reference for your further work). Presentation time will be by arrangement, at the end of the term. 
+  * 30% End-of term research project presentation (15+ minutes). These will likely take the form of a Jupyter notebook (or Matlab live script), so it also stands as a written record of the work (for your professional portfolio, and as a reference for your further work). Presentation time will be by arrangement, at the end of the term. **Note from 2018: Best results come from framing a well-defined question or goal as early as possible: Testing the null hypothesis that (x,y) are not related. Estimating the regression coefficient between (z,q). Characterizing the variability of v. Otherwise it becomes about the amount of activity rather than the application.**
   
   * 30% Three mini-exams (in class) and an inclusive final will make you upload course vocabulary and essential take-away knowledge into your brain, more than once since repetition is key to lasting learning. A draft of the final exam for no credit will be done at the beginning of class, so I can plan my teaching around your needs and interests. There will be no surprise about what all is on the exam! It may take the form of a take-home portion (long, so it can be comprehensive of the broad sweep of our material), with a small timed closed-book subset to encourage you to memorize and think over the material one last time. 
   
