@@ -44,7 +44,7 @@ You will see a file tree, beginning from the folder where you launched **jupyter
 
 Start with notebooks/Jupyter_Notebooks/... to learn to operate the notebooks. That is part of my recommended pathways for beginners: https://github.com/brianmapes/unidata-python-workshop/blob/master/notebooks/ABOUT_THESE_NOTEBOOKS.md. 
 
-Are you new to Python, but know some programming concepts? Consider my ultra-summarized list of first things about parsing python code, well enough to understand and adjust notebooks, at https://github.com/MPO624/MPO624-2018/blob/master/PYTHON_SYNTAX_101.md. 
+Are you new to Python, but know some programming concepts? Consider my ultra-summarized list of first things about parsing python code, well enough to understand and adjust notebooks, at https://github.com/MPO624/MPO624-2020/blob/master/PYTHON_SYNTAX_101.md. 
 
 By the way, you can browse _static_ versions of all these same Unidata notebooks on GitHub.com: https://github.com/Unidata/unidata-python-workshop/tree/master/notebooks/Jupyter_Notebooks. 
 

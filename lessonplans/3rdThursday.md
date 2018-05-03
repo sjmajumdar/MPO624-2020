@@ -18,6 +18,6 @@ Types of data analysis:
 "process" (technique is the driving idea -- true of class assignment-labs, but also of science sometimes)
 
 Galleries: Back to projector. 
-https://github.com/MPO624/MPO624-2018/blob/master/SUPPLEMENTAL_LINKS.md
+https://github.com/MPO624/MPO624-2020/blob/master/SUPPLEMENTAL_LINKS.md
 Send out the scouts! 
 

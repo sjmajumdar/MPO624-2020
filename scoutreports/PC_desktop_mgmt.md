@@ -34,9 +34,9 @@ https://www.digitalcitizen.life/command-prompt-how-use-basic-commands
 * To update your forked folder with most recent version:  
   1. go to your forked folder  
   2. at top of list of folders/files, click +Compare  
-  3. change head fork to MPO625/MPO-2018  
+  3. change head fork to MPO625/MPO-2020  
   4. will need to click "compare across forks"  
-  5. able to change base fork to YOUR repository (e.g. kelseymalloy/ATM624-2018)  
+  5. able to change base fork to YOUR repository (e.g. kelseymalloy/ATM624-2020)  
   6. create pull request for yourself (will need to be able to merge so make sure no conflicts)  
   7. go to your pull requests and merge changes   
   8. this will update on GitHub Desktop  

@@ -2,7 +2,7 @@
 #### and its matrix algebra (linear algebra) underpinnings 
 ##### (eigenvector-eigenvalue diagonalization of square matrices, or SVD for any matrix: np.linalg package) 
 
-Due: April 24, 2018
+Due: April 24, 2020
 
 ### 1. Linear algebra concepts needed for user-level understanding. 
 Consider Appendix 1: Overview of Matrix Algebra, page 536 of Martinson book proofs in Readings, or find your own sources (please share by citing good ones you find). 

@@ -1,6 +1,6 @@
 ## Third Tuesday
 
-Students presented their scientific paper deconstructions from https://github.com/MPO624/MPO624-2018/tree/master/assignments/deconstruct-figure-set
+Students presented their scientific paper deconstructions from https://github.com/MPO624/MPO624-2020/tree/master/assignments/deconstruct-figure-set
 
 About 5 minutes each. 
 
