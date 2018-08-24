@@ -2,7 +2,7 @@
 
 From the directory where you find this file, you must **create** the **MPO624 environment** like this: 
 
-`conda env install -f MPO624_conda_environment.yml`
+`conda env create -f MPO624_conda_environment.yml`
 
 And of course, to "activate" an environment before launching jupyter, 
 source activate MPO624
