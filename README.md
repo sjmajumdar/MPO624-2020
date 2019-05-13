@@ -24,3 +24,4 @@ List of emojis you can use in Markdown: https://gist.github.com/rxaviers/7360908
 
 Special characters to cut and paste https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references
 
+
